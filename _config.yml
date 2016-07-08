@@ -1,6 +1,6 @@
 name: LePark
 favicon: null
-layout_spectrum: 0.59933
+layout_spectrum: 1
 typography_spectrum: 0.46721
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3125
-  lightness: 0.5625
-  saturation: 0.25
-  rhythmicContrast: 0.23927738959901035
+    - '#343235'
+    - '#f3f1f4'
+    - '#b3b1b4'
+    - '#979598'
+    - '#4e4c4f'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
