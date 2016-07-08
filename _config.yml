@@ -1,7 +1,7 @@
 name: LePark
 favicon: null
-layout_spectrum: 0.7752664959989488
-typography_spectrum: 0.8611989279743284
+layout_spectrum: 0.59933
+typography_spectrum: 0.46721
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.4833356412127614
-  lightness: 0.5351780974306166
-  saturation: 0.27527560852468014
+  brandStrength: 0.3125
+  lightness: 0.5625
+  saturation: 0.25
   rhythmicContrast: 0.23927738959901035
 purpose: []
